@@ -6,9 +6,12 @@
 *.swp
 .buildlog/
 .history
+.DS_Store
 
-
-
+# IDE and Editor files
+.idea/
+*.iml
+.vscode/
 # Flutter repo-specific
 /bin/cache/
 /bin/internal/bootstrap.bat
